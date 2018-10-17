@@ -1,7 +1,7 @@
 ---
 title: "关于我"
 date: 2018-10-17T11:08:26+08:00
-draft: true
+draft: false 
 author: "白辰"
 comments: false
 share: false
